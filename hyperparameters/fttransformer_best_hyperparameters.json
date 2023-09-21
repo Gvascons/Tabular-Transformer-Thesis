@@ -1,0 +1,8 @@
+{
+    "dim": 58,
+    "depth": 10,
+    "heads": 4,
+    "attn_dropout": 0.15000000000000002,
+    "ff_dropout": 0.2,
+    "learning_rate": 9.91e-06
+}

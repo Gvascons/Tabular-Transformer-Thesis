@@ -1,0 +1,10 @@
+{
+    "loss": "exponential",
+    "learning_rate": 0.06568694177774066,
+    "n_estimators": 159,
+    "max_depth": 12,
+    "min_samples_split": 158,
+    "min_samples_leaf": 71,
+    "max_features": null,
+    "subsample": 0.7312852865743152
+}

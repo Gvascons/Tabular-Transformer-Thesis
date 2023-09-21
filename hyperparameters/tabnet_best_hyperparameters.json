@@ -1,0 +1,9 @@
+{
+    "n_d_and_n_a": 52,
+    "n_steps": 6,
+    "gamma": 1.5357045970525516,
+    "lambda_sparse": 0.0003613891394341149,
+    "n_independent": 5,
+    "n_shared": 2,
+    "cat_emb_dim": 1
+}

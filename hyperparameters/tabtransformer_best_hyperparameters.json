@@ -1,0 +1,10 @@
+{
+    "dim": 57,
+    "depth": 10,
+    "heads": 8,
+    "attn_dropout": 0.25,
+    "ff_dropout": 0.25,
+    "mlp_hidden_mults_0": 2,
+    "mlp_hidden_mults_1": 10,
+    "learning_rate": 0.00074832
+}

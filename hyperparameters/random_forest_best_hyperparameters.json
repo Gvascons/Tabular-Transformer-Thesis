@@ -1,0 +1,9 @@
+{
+    "n_estimators": 525,
+    "criterion": "entropy",
+    "max_depth": 20,
+    "min_samples_split": 246,
+    "min_samples_leaf": 42,
+    "max_features": null,
+    "class_weight": "balanced"
+}
